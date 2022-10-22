@@ -1,1 +1,1 @@
-# SoftUni-course-python-basics-feb-2022
+# SoftUni-course-python-basics-Feb-2022
